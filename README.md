@@ -1,2 +1,2 @@
 # clipboard-landing-page
-Frontend Mentor Challenge
+This project is a Frontend Mentor Challenge for building a Clipboard Landing Page.
